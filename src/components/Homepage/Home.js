@@ -10,7 +10,6 @@ class Home extends Component {
                 <img class="container_image" src={`${process.env.PUBLIC_URL}/images/logo.png`} />
                 <div class="container_text">
 
-
                 </div>
 
 

@@ -13,6 +13,7 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
+    text-decoration: none;
 
 }
 h1{
@@ -29,9 +30,12 @@ li{
     text-align: center;
     font-size:30px;
     font-family: Quicksand;
-    text-decoration: none;
+    text-decoration: inherit;
 }
 
 li:hover {
     color: rgb(140, 216, 230);
+}
+Link{
+    text-decoration: inherit;
 }
