@@ -1,0 +1,14 @@
+
+.container{
+    background: linear-gradient(120deg, #2e266e, #b3c6df);
+    width: 100%;
+    min-height:100vh;
+    background-size: cover; 
+}
+.container_image{
+    margin-top: 5%;
+    margin-left: 2%;
+    width:400px;
+    border-radius:10px;
+}
+
