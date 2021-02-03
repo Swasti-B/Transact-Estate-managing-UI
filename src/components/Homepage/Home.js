@@ -7,8 +7,9 @@ class Home extends Component {
         return (
             <div class="container">
 
-                <img class="container_image" src={`${process.env.PUBLIC_URL}/images/logo.png`} />
+                <img class="container_image" src={`${process.env.PUBLIC_URL}/images/trans.png`} />
                 <div class="container_text">
+        
 
                 </div>
 

@@ -7,7 +7,7 @@ class NavBar extends Component {
   render() {
     return (
       <nav id="top-nav">
-        <h1>Transact</h1>
+         <h1>TRANSACT</h1>
         <ul className="nav-links">
           <Link to="/Home">
             <li>Home</li>

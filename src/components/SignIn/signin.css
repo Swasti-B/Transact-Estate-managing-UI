@@ -9,32 +9,46 @@ overflow-x:hidden;
 .page{
     background: white;
 }
- .block{
+/* .block{
     background: #D50032;
     color:  white;
     margin-top: 0;
     padding: 35px;
 
-}
+} */
 
-.page h1 {
+.page p1 {
     
 width: 450px;
-height: 35px;
-margin-top: 2; 
+height: 20px;
+margin-left: 30%; 
 color: #D50032;
 font-family: "Times New Roman";
 text-align: center;
+font-size: 30px;
 
 }
 .sign-in {
-    width: 300px;
-    height: 300px;
+    width: 270px;
+    height: 270px;
     position: relative;
-    margin: 30px 50px 6000px 900px;
+    /* margin: 30px 50px 6000px 900px; */
+    margin-top: 2%;
+    margin-left: 75%;
+    margin-bottom: 2%;
     background: #E0E0E0;
     align-items: center;
     /* padding: 20px; */
+
+}
+.sign-in p2
+{
+    font-size: 22px;
+    margin-left: 20%;
+    margin-bottom: 10%;
+    margin-top:10%;
+    
+    
 
 }
 .btn{
@@ -42,8 +56,10 @@ text-align: center;
     width: 145px;
     height: 56px;
     padding: 7% 32px;
-    margin: 0 auto;
-    align-items: center;
+    margin-top: 20%;
+    margin-left: 25%;
+    /* margin: 0 auto;
+    align-items: center; */
 
     background: #D50032;
     color: white;
@@ -56,7 +72,10 @@ text-align: center;
     }
 
 .logo-img {
-    width: 280px;
+        margin-top: 0%;
+        margin-left: 42%;
+        width:300px;
+        border-radius:10px;
 
 }
 
@@ -65,9 +84,9 @@ text-align: center;
     color: #fff;
     height: 14px;
     /* position: relative; */
-    bottom: 0px;
-    left: 0px;
-    right: 0px;
+    bottom: 0vh;
+    left: 0vh;
+    right: 0vh;
     padding-top: 60px;
 
 }
