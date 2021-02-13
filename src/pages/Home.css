@@ -1,0 +1,33 @@
+.contain {
+    background-color: #e6e6e6;
+    max-width: 100%;
+
+}
+
+.AddUniButton{
+    background: rgba(213, 0, 50, 0.1);
+border: 1px solid #D50032;
+box-sizing: border-box;
+border-radius: 8px;
+}
+.contain2 {
+    background-color: #C4C4C4;
+
+}
+.container{
+    max-width:100%;
+}
+.col-md-4{
+    background-color:  #C4C4C4;
+    max-height: 100%
+}
+
+/* .nav-tab:not(.active){
+    color:white
+} */
+
+.nav-tab{
+    
+    color:white;
+    /* background-color:#D50032; */
+}
